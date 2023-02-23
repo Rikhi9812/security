@@ -8,5 +8,12 @@ class SecurityApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	@Test
+	void contextLoads1234124() {
+	}
+	
+	@Test
+	void contextLoads1234() {
+	}
 
 }
