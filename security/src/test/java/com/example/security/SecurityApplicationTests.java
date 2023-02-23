@@ -7,23 +7,99 @@ import org.springframework.boot.test.context.SpringBootTest;
 class SecurityApplicationTests {
 
 
-	asdfasdf
-	@Testweqwegqwed
-	void contextLoagqwegqwegqwegds1134t134tasdf() {
+	asdfasdfasdfas
+	@Testweqwegqwedasdfasdasdfas
+	void contextLoagqwegqwegqwegds1134t1asdfasdasdfa34tasdf() {
 
 	}
 	
 	
-	@Testqwegqwegq
-	void contextLoqwegqwegqweads1134t134tasdf() {
+	@Testqwegqwegqasdfasd
+	void contextLoqwegqwegqweads1134t134tasdasdfasdf() {
 
 	}
 }
 
 
-@Testqwegqweg
-	void qwegqwegqwecontextLoads1134t134tasdf() {
+@Testqwegqwegasdfasdfasd
+	void qwegqwegqwecontextLoads1asdfasd134t134tasdf() {
+qsdfqwdgqwedgqwedgqwe
+	}
+
+
+
+
+	asdfasdfasdfas
+	@Testweqwegqwedasdfasdasdfas
+	void contextLoagqwegqwegqwegds1134t1asdfasdasdfa34tasdf() {
+
+	}
+	
+	
+	@Testqwegqwegqasdfasd
+	void contextLoqwegqwegqweads1134t134tasdasdfasdf() {
 
 	}
 }
+
+
+@Testqwegqwegasdfasdfasd
+	void qwegqwegqwecontextLoads1asdfasd134t134tasdf() {
+qsdfqwdgqwedgqwedgqwe
+	}
 }
+}]
+
+
+package com.example.security;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SecurityApplicationTests {
+
+
+	asdfasdfasdfas
+	@Testweqwegqwedasdfasdasdfas
+	void contextLoagqwegqwegqwegds1134t1asdfasdasdfa34tasdf() {
+
+	}
+	
+	
+	@Testqwegqwegqasdfasd
+	void contextLoqwegqwegqweads1134t134tasdasdfasdf() {
+
+	}
+}
+
+
+@Testqwegqwegasdfasdfasd
+	void qwegqwegqwecontextLoads1asdfasd134t134tasdf() {
+qsdfqwdgqwedgqwedgqwe
+	}
+
+
+
+
+	asdfasdfasdfas
+	@Testweqwegqwedasdfasdasdfas
+	void contextLoagqwegqwegqwegds1134t1asdfasdasdfa34tasdf() {
+
+	}
+	
+	
+	@Testqwegqwegqasdfasd
+	void contextLoqwegqwegqweads1134t134tasdasdfasdf() {
+
+	}
+}
+
+
+@Testqwegqwegasdfasdfasd
+	void qwegqwegqwecontextLoads1asdfasd134t134tasdf() {
+qsdfqwdgqwedgqwedgqwe
+	}
+}
+}
+
