@@ -5,15 +5,37 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SecurityApplicationTests {	
-	@Test
+	@Test1234123
 	void contextLoads() {
 	}
-	@Test
+	@Test1234123
+	void contextLoads1234124() {
+	}
+	
+	@Test1234123434t123
+	void contextLoads1234() {
+	
+	asfqwerqw
+	}
+	
+	@Test123tqwegqdgq
+	void contextLoads1234124() {
+	qwegqawergwq
+	}
+	
+	@Testasdfqdfq
+	void contextLoads1234() {
+	qwegqwegrqwg
+	}
+
+
+@Test
 	void contextLoads1234124() {
 	}
 	
 	@Test
 	void contextLoads1234() {
 	}
+
 
 }
