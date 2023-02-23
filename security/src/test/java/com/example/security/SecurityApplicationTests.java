@@ -11,6 +11,14 @@ class SecurityApplicationTests {
 		System.out.println(12412412);
 	}
 	
+	@Test2
+	void contextLoads2() {
+		System.out.println(12412412);
+	}
+	@Test3
+	void contextLoads3() {
+		System.out.println(12412412);
+	
 	
 
 
