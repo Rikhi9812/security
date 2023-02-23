@@ -5,6 +5,27 @@ import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
 class SecurityApplicationTests {
+@Test2adfasd
+	void contextLoasdfasdfads2() {
+		System.out.println(12412412);
+	}
+	@Test3adfasd
+	void contextLasdfasdfoads3() {
+		System.out.println(12412412);
+	
+	}
+	@Test4adfasdf
+	void contextLoaasdfasfds4() {
+		System.out.println(12412412);
+	}
+	@Test5asdfasd
+	void contextLoasdfasdfasdfads4() {
+		System.out.println(12412412);
+	}
+	@Test6asdsafasdfasd
+	void contextasdfasdfLoads4() {
+		System.out.println(12412412);
+	}
 
 	
 	
