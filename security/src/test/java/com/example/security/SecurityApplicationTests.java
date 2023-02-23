@@ -4,11 +4,13 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SecurityApplicationTests {	
-	@Test1234123
+class SecurityApplicationTests {
+
+0
+	@Test12341231
 	void contextLoads() {
 	}
-	@Test1234123
+	@Test12341232
 	void contextLoads1234124() {
 	}
 	
@@ -22,16 +24,16 @@ class SecurityApplicationTests {
 	ASDGVwdg
 	asdasdfba
 	qerwgq3ewr4g
-	@Test123tqwegqdgq
+	@Test123tqwegqdgq4
 	void contextLoads1234124() {
 	qwegqawergwq
 	}
 	
-	@Testasdfqdfq
+	@Testasdfqdfq5
 	void contextLoads1234() {
 	qwegqwegrqwg
 	}
-
+6
 
 @Test
 	void contextLoads1234124() {
