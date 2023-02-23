@@ -6,8 +6,13 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class SecurityApplicationTests {
 
-	@Test1
-	void contextLoads1() {
+	
+	
+	
+	
+	
+	@Test1asdfadsfas
+	void contextLoads1asdfaasdf() {
 		System.out.println(12412412);
 		System.out.println(12412412);
 		System.out.println(12412412);
@@ -16,39 +21,18 @@ class SecurityApplicationTests {
 		System.out.println(12412412);
 	}
 	
-	@Test4qjqwerq
-	void contextLoadsadsfasdf() {
+	@Test4qjqwerqasdfasdf
+	void contextLoadsadsfasdasdfasdf() {
 		System.out.println(12412412);
 		System.out.println(12412412);
-		System.out.println(12412412);
+		System.out.prasdasdfintln(12412412);
 		System.out.println(12412412);
 		System.out.println(12412412);
 		System.out.println(12412412);
 	}
-	
+	asdasf
 	alsjdnvalknvalkd
+	asdfasdf
 	
-	@Test2
-	void contextLoads2() {
-		System.out.println(12412412);
-	}
-	@Test3
-	void contextLoads3() {
-		System.out.println(12412412);
-	
-	}
-	@Test4
-	void contextLoads4() {
-		System.out.println(12412412);
-	}
-	@Test5
-	void contextLoads4() {
-		System.out.println(12412412);
-	}
-	@Test6
-	void contextLoads4() {
-		System.out.println(12412412);
-	}
-
 
 }
