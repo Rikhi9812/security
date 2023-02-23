@@ -7,8 +7,23 @@ import org.springframework.boot.test.context.SpringBootTest;
 class SecurityApplicationTests {
 
 
-	@Test
-	void contextLoads1134t134tasdf() {
+	asdfasdf
+	@Testweqwegqwed
+	void contextLoagqwegqwegqwegds1134t134tasdf() {
 
 	}
+	
+	
+	@Testqwegqwegq
+	void contextLoqwegqwegqweads1134t134tasdf() {
+
+	}
+}
+
+
+@Testqwegqweg
+	void qwegqwegqwecontextLoads1134t134tasdf() {
+
+	}
+}
 }
